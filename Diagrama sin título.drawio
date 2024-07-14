@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T18:27:42.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VV_mnu7YGORXJv8JZaTC" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T18:33:45.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="o5oLKxhyY_0Cswxq8LE2" version="24.6.4" type="github">
   <diagram name="Página-1" id="xhBu50pJZfLyVbmMmCUi">
     <mxGraphModel dx="1120" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_sGSYCx3SggNJxipuRqc-30" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="55" width="650" height="430" as="geometry" />
+        </mxCell>
         <mxCell id="_sGSYCx3SggNJxipuRqc-4" value="Servidor Web" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="410" y="220" width="290" height="230" as="geometry" />
         </mxCell>
@@ -32,7 +35,7 @@
           <mxGeometry x="140" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_sGSYCx3SggNJxipuRqc-10" value="Disco&lt;div&gt;Almacenamiento&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="380" width="100" height="50" as="geometry" />
+          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_sGSYCx3SggNJxipuRqc-15" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -84,6 +87,9 @@
         </mxCell>
         <mxCell id="_sGSYCx3SggNJxipuRqc-29" value="Socket&lt;div&gt;TCP/IP&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="315" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_sGSYCx3SggNJxipuRqc-33" value="Diagrama de Despliegue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="55" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
